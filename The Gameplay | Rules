@@ -1,0 +1,52 @@
+To start the game, each player throws the dice. The Pleb with the highest total starts the game. 
+
+Then each Pleb places their miner on the block marked "Genesis Block”.
+
+Once all miners are on the 'Genesis Block', afirst player rolls the dice and move the number of spaces indicated by the dice.
+
+The miners remain on the block they landed on and the next miner will begin their roll.
+
+Once all miners have rolled the dice, the miner with the highest number rolled will be awarded the block reward. 
+
+If a transcaction is conducted (whether adding/subtracting UTXO's) the UTXO/Bitcoin will be added to the each indivual miners wallet on the Ledger sheet. 
+[If a miner is instructed to subtract UTXO/Bitcoin that they do not have, the miner will forfeit the remainder of their stack to the directed address. If the miner
+has no UTXO/Bitcoin in their wallet, they will disregard the cards instructions.]
+
+Two or more miners may rest on the same block at the same time.
+
+If one or both dice roll off the board, land on or lean against a card deck, the roll is invalid. Roll the dice again.
+
+If you throw doubles, you move your miner to the amount of spaces indicated on the dice. No extra rolls for rolling doubles. No CANTILLIONAIRE EFFECT here.
+
+Documenting Transactions:
+After each miner rolls, if they are insructed to add/subtract UTXO/Bitcoin to their wallet, they will document this under their wallet in the current block. The 
+transaction MUST be documented prior to the next miner rolling the dice. 
+
+Validating Blocks:
+Before moving to the next block, the miners will add/subtract from their current wallet total and add the new sum of UTXO/Bitcoin to the next block under their
+wallet address. After all transactions have taken place and all miners have rolled, the block needs to be valiated by over 50% of the miners (i.e. If there are 
+5 players, at least 3 miners need to confirm that the current block is valid.). Once validation is completed, the miners can move onto the next block and start 
+rolling for their next turn. 
+
+Block Rewards:
+Block rewards will be given to the miner who has rolled the highest number on that turn amongst all miners. 
+
+Halvings:
+The halvings will take place every seven (7) blocks [In other terms, after every miner has rolled seven (7) times.] Block rewards will follow the same issuance 
+schedule as the Bitcoin protocol. (There will be a card with the exact amount of rewards per Epoch from the first to last Epoch.)
+
+Buying Mining Farms & Adding Racks to Minig Farms:
+The game board has four (4) mining farms {Hut8, Riot Blockchain, Blockstream Mining, Core Scientific}. These mining farms can be purchased(the cost?). A miner can 
+add a total of two (2) racks to each individual mining farm. Each individual rack adds +1 to the miners roll {i.e. Players Roll Total + (Amount of racks * 1) = New Players Roll Total}.
+A miner can purchase as many mining farms as they want (Free Market Capitalism). By adding this feature, this can increase your chances of hitting the block reward. 
+
+Exchanges:
+The game board has four (4) exchanges {Swan, Strike, Cash App, River Financial}. Any miner can land on these blocks as many times possible during the entirety of
+the game. A miner will be rewarded UTXO/Bitcoin (amount to be determined). It does not matter if their is another miner on the block and another miner also lands on the block,
+both miners will be rewarded UTXO/Bitcoin. 
+
+
+
+
+
+
