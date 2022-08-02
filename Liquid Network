@@ -1,0 +1,10 @@
+If you land on the 'blockstream' block you will be entering the Liquid Network. (There will be a card explaining the process of pegging-in the Liquid Network.)
+The miner will again roll again during this turn. While on the Liquid Network, the miner will roll only one dice. After each miner rolls, any miner located on either 
+Layer 2 (Liquid/Lightning) will roll another single dice that they will add to their initial roll for their new total for that roll. This is so miners located on either
+Layer 2 are not at a disadvantage of winning the block reward (The roll total that landed the miner on the 'blockstream' block will be voided. Only the single 
+dice roll on Liquid and the additional single dice roll after each miner completed their roll will be counted during this process.)
+
+
+Blocks located on the Liquid Network, all have predetermind action.
+
+THIS SPACE WILL BE UPDATED AS WE FISNISH UP THE DESIGN
